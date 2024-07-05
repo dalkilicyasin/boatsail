@@ -13,3 +13,8 @@ Coordinator Pattern with MVVM - Advanced Navigation in UIKit & SwiftUI
 ## This is the animation of project
 
 ![boatgiff](https://github.com/dalkilicyasin/boatsaily/assets/72190310/ce2c1f34-0e34-4ef5-9a92-9f3224f25a6f)
+
+
+Just make pod install from terminal on your file location
+
+
