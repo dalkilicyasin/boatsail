@@ -13,4 +13,5 @@ Coordinator Pattern with MVVM - Advanced Navigation in UIKit & SwiftUI
 ## This is the animation of project
 
 
-![Uploading boatigf.gif…]()
+
+![boatsailygif](https://github.com/dalkilicyasin/boatsaily/assets/72190310/07a0b7a0-c04c-42d5-ab2c-94e98dcf0e9d)
