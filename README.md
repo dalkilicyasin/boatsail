@@ -1,7 +1,7 @@
 # MVVM-C SwiftUI Project
 Coordinator Pattern with MVVM - Advanced Navigation in UIKit & SwiftUI
 
-## İmportand Error Hangling
+## İmportand Error Handling
 
 When you try to handle build you will get error. Make on Buil Settings 'User Script Sandboxing' -> 'No' like below which shown below.
 
